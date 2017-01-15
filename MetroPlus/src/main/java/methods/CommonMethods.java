@@ -30,7 +30,7 @@ public class CommonMethods extends CommonAPI {
         if (!isAlreadyLogIn) {
             clickByXpath(".//*[@id='nav-link-yourAccount']/span[2]");
             sleepFor(2);
-            typeByXpath(".//*[@id='ap_email']", "nahreen789@gmail.com");
+            typeByXpath(".//*[@id='ap_email']", "akarimqa@gmail.com");
             sleepFor(2);
             typeByXpath(".//*[@id='ap_password']", "0606440");
             sleepFor(2);
