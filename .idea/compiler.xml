@@ -9,6 +9,8 @@
         <module name="Amazon" />
         <module name="Ebay" />
         <module name="Generic" />
+        <module name="Indeed" />
+        <module name="MetroPlus" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +18,8 @@
       <module name="Ebay" target="1.5" />
       <module name="Generic" target="1.5" />
       <module name="GroupProject" target="1.5" />
+      <module name="Indeed" target="1.8" />
+      <module name="MetroPlus" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

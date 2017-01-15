@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [MetroPlus Website Test]" parallel="tests">
+  <parameter name="useCloudEnv" value="true"/>
+  <parameter name="os" value="Mac"/>
+  <parameter name="accessKey" value="49b439a6-5c05-4e33-bfa8-03342b5e5a41"/>
+  <parameter name="browserVersion" value="55"/>
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="userName" value="akarimqa"/>
+  <parameter name="url" value="http://www.metroplus.org"/>
+  <test name="Metroplus Website Test(failed)" parallel="tests">
+    <classes>
+      <class name="HomePage.TestMemberLogin">
+        <methods>
+          <include name="tearDown"/>
+          <include name="IncorrectMemberLoginWithWrongInfo"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- HomePage.TestMemberLogin -->
+      <class name="HomePage.TestHomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- HomePage.TestHomePage -->
+    </classes>
+  </test> <!-- Metroplus Website Test(failed) -->
+</suite> <!-- Failed suite [MetroPlus Website Test] -->

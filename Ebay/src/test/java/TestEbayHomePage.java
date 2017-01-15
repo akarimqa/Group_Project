@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
  */
 public class TestEbayHomePage extends CommonAPI {
     @Test
-    public void TestHomePage(){
+    public void TestHomePage() throws Exception{
         //clickByXpath(".//*[@id='nav-logo']/a[1]/span[1]");
         typeByXpath("html/body/div[3]/div/header/table/tbody/tr/td[3]/form/table/tbody/tr/td[1]/div[1]/div/input","Computer");
         driver.findElement(By.xpath("html/body/div[5]/div[1]/div[1]/div[2]/div/span[2]/a[1]/b")).isDisplayed();

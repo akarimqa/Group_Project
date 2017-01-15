@@ -1,0 +1,21 @@
+Starting ChromeDriver 2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9) on port 35887
+Only local connections are allowed.
+Jan 15, 2017 3:40:29 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+Jan 15, 2017 3:40:31 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Navigated to the MetroPlus Home page
+Starting ChromeDriver 2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9) on port 48903
+Only local connections are allowed.
+Jan 15, 2017 3:40:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+Jan 15, 2017 3:40:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Navigated to the MetroPlus Login page
+Incorrect Member Login without user info credential check-passed
+Starting ChromeDriver 2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9) on port 34591
+Only local connections are allowed.
+Jan 15, 2017 3:40:51 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+Jan 15, 2017 3:40:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS

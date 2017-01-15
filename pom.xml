@@ -12,6 +12,8 @@
         <module>Generic</module>
         <module>Amazon</module>
         <module>Ebay</module>
+        <module>MetroPlus</module>
+        <module>Indeed</module>
     </modules>
 
     <dependencyManagement>
@@ -36,6 +38,45 @@
                 <artifactId>junit</artifactId>
                 <version>4.12</version>
             </dependency>
+            <dependency>
+                <groupId>org.mongodb</groupId>
+                <artifactId>mongo-java-driver</artifactId>
+                <version>3.4.1</version>
+            </dependency>
+            <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+            <dependency>
+                <groupId>org.apache.poi</groupId>
+                <artifactId>poi</artifactId>
+                <version>3.15</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
+    <profiles>
+        <profile>
+            <id>amazon-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>Amazon</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>cnn-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>Ebay</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>default</id>
+            <activation>
+                <jdk>1.8</jdk>
+            </activation>
+            <modules>
+                <module>Generic</module>
+                <module>Amazon</module>
+                <module>Ebay</module>
+                <module> MetroPlus</module>
+            </modules>
+        </profile>
+    </profiles>
 </project>

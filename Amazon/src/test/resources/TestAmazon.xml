@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Test Amazon">
-    <parameter name="url" value="https://amazon.com/"/>
+<suite name="Amazon Website Test" >
 
-    <test name="TestHomePage">
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="rahmanww"/>
+    <parameter name="accessKey" value="6f132866-de72-43fd-b49a-e6f81d26bfe3"/>
+    <parameter name="os" value="Mac"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="55"/>
+    <parameter name="url" value="http://www.amazon.com"/>
+
+    <test name = "Amazon Website Test">
         <classes>
             <class name="TestHomePage"/>
         </classes>
     </test>
+
 </suite>
