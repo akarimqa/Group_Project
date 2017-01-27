@@ -6,9 +6,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by ahmadkarim on 1/15/17.
+ * Created by mrahman on 1/8/17.
  */
 public class DropDownMenuPage extends CommonAPI{
+
     public List<String> getMenus(){
         List<String> items = new ArrayList<String>();
         items = getTextFromWebElements("#searchDropdownBox option");
@@ -31,5 +32,4 @@ public class DropDownMenuPage extends CommonAPI{
     public void clearBox() {
         clearInput("#twotabsearchtextbox");
     }
-
 }

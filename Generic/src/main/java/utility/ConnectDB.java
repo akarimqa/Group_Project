@@ -28,7 +28,8 @@ public class ConnectDB {
 
     public static Properties loadProperties() throws IOException{
         Properties prop = new Properties();
-        InputStream ism = new FileInputStream("src/MySql.properties");
+        InputStream ism = new FileInputStream("/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Generic/src/MySql.properties");
+        //"src/MySql.properties"
         prop.load(ism);
         ism.close();
         return prop;
@@ -69,7 +70,7 @@ public class ConnectDB {
             connectToDatabase();
             statement = connect.createStatement();
             resultSet = statement.executeQuery("select * from " + tableName);
-            data = getResultSetData(resultSet, columnName);
+            data = getResultSetData(resultSet, "jobType");
         } catch (ClassNotFoundException e) {
             throw e;
         }finally{

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [MetroPlus Website Test]" parallel="tests">
-  <parameter name="useCloudEnv" value="true"/>
+  <parameter name="useCloudEnv" value="false"/>
   <parameter name="os" value="Mac"/>
   <parameter name="accessKey" value="49b439a6-5c05-4e33-bfa8-03342b5e5a41"/>
   <parameter name="browserVersion" value="55"/>

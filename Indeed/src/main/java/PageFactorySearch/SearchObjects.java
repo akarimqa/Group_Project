@@ -5,11 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-/**
- * Created by ahmadkarim on 1/15/17.
- */
 public class SearchObjects {
-
     WebDriver pageObjectDriver;
 
     @FindBy(id="searchDropdownBox")
@@ -33,7 +29,7 @@ public class SearchObjects {
     @FindBy(css = ".a-list-item")
     public WebElement itemInCart;
 
-    // This constructor calls initelements method of PageFactory class. initelements method will create the WebElements declared in this class
+       // This constructor calls initelements method of PageFactory class. initelements method will create the WebElements declared in this class
     public SearchObjects(WebDriver driver) {
         this.pageObjectDriver=driver;
         PageFactory.initElements(driver, this);

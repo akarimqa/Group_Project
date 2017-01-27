@@ -1,0 +1,14 @@
+Starting ChromeDriver 2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9) on port 40078
+Only local connections are allowed.
+Jan 24, 2017 11:56:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+Jan 24, 2017 11:56:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Selenium Automation Test has openings of 263
+Manual Test has openings of 990
+Selenium Backend Test has openings of 33
+QTP Test has openings of 96
+Database Test has openings of 1,383
+Selenium with Maven Test has openings of 43
+Selenium and QTP has openings of 48
+Mobile Testing has openings of 1,489

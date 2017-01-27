@@ -11,7 +11,13 @@
 
     <artifactId>Indeed</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.GroupProject</groupId>
+            <artifactId>Generic</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
@@ -31,23 +37,22 @@
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
-                        <suiteXmlFile>target/test-classes/${TestIndeedTestRunner}</suiteXmlFile>
-                        <!--<suiteXmlFile>target/test-classes/TestIndeedTestRunner.xml</suiteXmlFile>-->
+                        <!--<suiteXmlFile>target/test-classes/${IndeedTestRunner}</suiteXmlFile>-->
+                        <suiteXmlFile>target/test-classes/IndeedTestRunner.xml</suiteXmlFile>
                     </suiteXmlFiles>
+                    <!--<reportsDirectory>./test-output/${timestamp}</reportsDirectory>-->
                 </configuration>
             </plugin>
         </plugins>
     </build>
-    <dependencies>
-        <dependency>
-            <groupId>com.GroupProject</groupId>
-            <artifactId>Generic</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <!--<properties>-->
+        <!--<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>-->
+        <!--<timestamp>${maven.build.timestamp}</timestamp>-->
+        <!--<maven.build.timestamp.format>yyyyMMdd-HHmm</maven.build.timestamp.format>-->
+    <!--</properties>-->
 
     <properties>
-        <TestIndeedTestRunner>TestIndeedTestRunner.xml</TestIndeedTestRunner>
+        <IndeedTestRunner>IndeedTestRunner.xml</IndeedTestRunner>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 </project>

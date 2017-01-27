@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 /**
- * Created by ahmadkarim on 1/15/17.
+ * Created by rrt on 1/3/2016.
  */
 public class SearchItems {
     @FindBy(how = How.CSS, using = "#what")
@@ -21,6 +21,7 @@ public class SearchItems {
     public void clearSearchInput(){
         searchInput.clear();
     }
+
 
 
 
