@@ -17,13 +17,13 @@ public class UiLandingPage extends commonMethods {
     @FindBy(how = How.CSS, using = "#fj")
     public static WebElement findJobButton;
 
-    
+
 
     public void landingPageSearch(String jobType1, String jobLocation1){
         jobType.clear();
-jobType.sendKeys(jobType1);
-jobLocation.clear();
-jobLocation.sendKeys(jobLocation1);
-findJobButton.click();
+        jobType.sendKeys(jobType1);
+        jobLocation.clear();
+        jobLocation.sendKeys(jobLocation1);
+        findJobButton.click();
     }
 }

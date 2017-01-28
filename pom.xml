@@ -11,7 +11,7 @@
     <modules>
         <module>Generic</module>
 
-        <module>MetroPlus</module>
+
         <module>Indeed</module>
     </modules>
 
@@ -77,7 +77,7 @@
             <modules>
                 <module>Generic</module>
 
-                <module> MetroPlus</module>
+                <!--<module> MetroPlus</module>-->
             </modules>
         </profile>
     </profiles>

@@ -13,7 +13,7 @@ public class TestLandingPage extends commonMethods {
     public void testBlankLogin() throws Exception{
 
         UiLandingPage uiLandingPage=PageFactory.initElements(driver,UiLandingPage.class);
-uiLandingPage.landingPageSearch("Selenium Tester", "NYC,NY");
+        uiLandingPage.landingPageSearch("Selenium Tester", "NYC,NY");
 
 
     }

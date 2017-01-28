@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/GroupProject.iml" filepath="$PROJECT_DIR$/GroupProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Indeed/Indeed.iml" filepath="$PROJECT_DIR$/Indeed/Indeed.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MetroPlus/MetroPlus.iml" filepath="$PROJECT_DIR$/MetroPlus/MetroPlus.iml" />
     </modules>
   </component>
 </project>

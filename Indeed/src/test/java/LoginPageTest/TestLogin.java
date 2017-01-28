@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
  * Created by ahmadkarim on 1/24/17.
  */
 public class TestLogin extends commonMethods {
-    @Test(priority = 1)
+    @Test(priority = 0)
     public void testLoginBlank() throws Exception{
         UiLoginPage uiLoginPage= PageFactory.initElements(driver, UiLoginPage.class);
 
@@ -24,25 +24,31 @@ public class TestLogin extends commonMethods {
         Assert.assertEquals(actual,expected);
     }
 
-    @Test(priority = 2)
+    @Test(priority = 1)
     public void testLoginIncorrectUseName()throws Exception{
         UiLoginPage uiLoginPage= PageFactory.initElements(driver, UiLoginPage.class);
         uiLoginPage.login("abcdef",commonMethods.IndeedPass);
-sleepFor(2);
+        String actual=uiLoginPage.actualWrongUserPasswordMassage();
+        String expected="Incorrect password or email address";
+        Assert.assertEquals(actual,expected);
+        //sleepFor(2);
     }
-    @Test(priority = 3)
+    @Test(priority = 2)
     public void testLoginIncorrectPass() throws Exception{
         UiLoginPage uiLoginPage= PageFactory.initElements(driver, UiLoginPage.class);
         uiLoginPage.login(commonMethods.IndeedUser,"123456");
-sleepFor(2);
+        String actual=uiLoginPage.actualWrongUserPasswordMassage();
+        String expected="Incorrect password or email address";
+        Assert.assertEquals(actual,expected);
+        //sleepFor(2);
     }
-    @Test(priority = 4)
+    @Test(priority = 3)
     public void testLoginCorrectCredentials()throws Exception{
         UiLoginPage uiLoginPage= PageFactory.initElements(driver, UiLoginPage.class);
         uiLoginPage.login(commonMethods.IndeedUser,commonMethods.IndeedPass);
         String actual=uiLoginPage.loggedinUser();
         Assert.assertEquals(actual,commonMethods.IndeedUser);
-sleepFor(2);
+       // sleepFor(2);
     }
 
 }

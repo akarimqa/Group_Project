@@ -13,7 +13,7 @@ import java.io.IOException;
  * Created by ahmadkarim on 1/24/17.
  */
 public class SearchByExcel extends CommonAPI {
-    //@Test
+
     @Test
     public void search()throws IOException,InterruptedException{
         //Create instance of Excel file reader class
@@ -22,6 +22,7 @@ public class SearchByExcel extends CommonAPI {
         PageFactorySearch.SearchItems search = PageFactory.initElements(driver, PageFactorySearch.SearchItems.class);
         //Read data from Excel File.
         String [] value = itemsToBeSearched.getData();
+        System.out.println("==================JOB OPENINGS SEARCHED BY EXCEL DATA SOURCE====================");
         //Running for each loop
         for(int i=1; i<value.length; i++) {
             search.searchFor(value[i]);

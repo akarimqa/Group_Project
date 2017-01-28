@@ -23,6 +23,8 @@
 
                     <class name="HomePageTest.TestLandingPage"/>
                     <class name="LoginPageTest.TestLogin"/>
+                    <class name="HomePageAllLinksTest.TestAllLinks"/>
+                    <!--<class name="TestAdvanceJobSearchPage.DropDownMenuSearch"/>-->
 
 
                 </classes>

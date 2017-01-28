@@ -1,6 +1,5 @@
 landingPage/UiLoginPage.class
 landingPage/UiLandingPage.class
-PageFactorySearch/DropDownMenuPage.class
 PageFactorySearch/SearchObjects.class
 dataToSearch/ItemsToBeSearched.class
 methods/commonMethods.class

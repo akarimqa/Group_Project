@@ -32,6 +32,7 @@ public class SearchByDataprovider extends CommonAPI {
         sleepFor(2);
 //Gives the result from job search
         String [] parts =(driver.findElement(By.xpath(".//*[@id='searchCount']")).getText()).split(" ");
+        System.out.println("=====================SEARCHE BY DATA PROVIDER===================");
        System.out.println(data +" has openings of "+ parts[5]);
 
         search.clearSearchInput();

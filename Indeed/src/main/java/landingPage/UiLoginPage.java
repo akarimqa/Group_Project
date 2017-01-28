@@ -24,10 +24,12 @@ public class UiLoginPage extends commonMethods {
     @FindBy(how = How.XPATH, using = ".//*[@id='userOptionsLabel']/span/b")
     public static WebElement userLoggedin;
 
-@FindBy(how = How.XPATH, using = ".//*[@id='container']/div/div/div[2]/a[1]/div")
+    @FindBy(how = How.XPATH, using = ".//*[@id='container']/div/div/div[2]/a[1]/div")
     public static WebElement blankEntryMassage;
-@FindBy(how = How.XPATH, using = ".//*[@id='signin_password_grp']/div")
+    @FindBy(how = How.XPATH, using = ".//*[@id='signin_password_grp']/div")
     public  static WebElement incorrectEntryMassage;
+    @FindBy(how = How.XPATH, using = ".//*[@id='signin_password_grp']/div")
+    public static WebElement wrongUserPasswordMassage;
 
 
 }

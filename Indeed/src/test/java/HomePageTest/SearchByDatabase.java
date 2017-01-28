@@ -21,6 +21,7 @@ public class SearchByDatabase extends CommonAPI {
         ConnectDB db = new ConnectDB();
          System.out.println("databsse connected");
         List<String> st = db.readDataBase("indeedTable", "jobType" );
+         System.out.println("==================SOURCE:JOB OPENINGS SEARCHED BY MYSQL DB ====================");
         for(String data:st) {
             search.searchFor(data);
             sleepFor(2);

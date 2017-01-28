@@ -2,153 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b3137f-876f-49e5-ad8b-8fc6bc5ee9e5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/TestHomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/TestAmazon.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestHomePage.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestHomePage.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestHomePage/Command line test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestHomePage/Command line test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestHomePage/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-TestHomePage.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/Command line test.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/TestHomePage/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/passed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/TestAmazon.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/TestHomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/Ebay.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/src/test/java/TestEbayHomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/src/test/resources/TestEbay.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TEST-TestEbayHomePage.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TestEbayHomePage.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TestEbayHomePage/Command line test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TestEbayHomePage/Command line test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TestEbayHomePage/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-TestEbayHomePage.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/Command line test.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/TestEbayHomePage/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/passed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/test-classes/TestEbay.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/test-classes/TestEbayHomePage.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/DropDownMenuPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchItems.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchObjects.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/methods/CommonMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/pageFactoryLogin/LogInInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/pageFactoryLogin/SearchItems.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/main/java/pageFactoryLogin/SearchObjects.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/test/java/HomePage/Items.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/test/java/HomePage/TestHomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/classes/pageFactoryLogin/LogInInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/classes/pageFactoryLogin/SearchItems.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/classes/pageFactoryLogin/SearchObjects.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/test-classes/HomePage/Items.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/test-classes/HomePage/TestHomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/test-classes/TestIndeedTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire/surefire5064189661738139115tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire/surefire_01480887048557828329tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire/surefirebooter3243110797319545423.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Indeed/src/test/test/resources/TestIndeedTestRunner.xml" afterPath="$PROJECT_DIR$/Indeed/src/test/test/resources/IndeedTestRunner.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MetroPlus/src/test/java/HomePage/TestHomePage.java" afterPath="$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestHomePage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MetroPlus/src/test/java/HomePage/TestMemberLogin.java" afterPath="$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestMemberLogin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MetroPlus/src/test/resources/TestMetroPlusTestRunner.xml" afterPath="$PROJECT_DIR$/MetroPlus/src/test/resources/MetroPlusTestRunner.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/DropDownMenuSearch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/classes/PageFactorySearch/DropDownMenuPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Indeed/target/test-classes/HomePageTest/DropDownMenuSearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/MetroPlus.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/data/file1.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/PageFactorySearch/DropDownMenuPage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/PageFactorySearch/SearchItems.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/PageFactorySearch/SearchObjects.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/dataToSearch/ItemsToBeSearched.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/methods/CommonMethods.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/pageFactoryLogin/LogInInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/pageFactoryLogin/SearchItems.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/main/java/pageFactoryLogin/SearchObjects.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestHomePage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestMemberLogin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/src/test/resources/MetroPlusTestRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/MetroPlus-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/PageFactorySearch/DropDownMenuPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/PageFactorySearch/SearchItems.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/PageFactorySearch/SearchObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/dataToSearch/ItemsToBeSearched.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/methods/CommonMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/pageFactoryLogin/LogInInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/pageFactoryLogin/SearchItems.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/classes/pageFactoryLogin/SearchObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/Command line suite/Command line test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/Command line suite/Command line test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/Command line suite/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/Metroplus Website Test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/Metroplus Website Test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TestSuite-output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/junitreports/TEST-HomePage.TestHomePage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/junitreports/TEST-HomePage.TestMemberLogin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/Command line test.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/Command line suite/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/Metroplus Website Test.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/HomePage/TestHomePage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/HomePage/TestMemberLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/HomePageTest/TestHomePage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/HomePageTest/TestMemberLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/MetroPlusTestRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/TestMetroPlusTestRunner.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/utility/ConnectDB.class" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/ConnectDB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/data/file1.xls" afterPath="$PROJECT_DIR$/Indeed/data/file1.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/classes/PageFactorySearch/DropDownMenuPage.class" afterPath="$PROJECT_DIR$/Indeed/target/classes/PageFactorySearch/DropDownMenuPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/classes/PageFactorySearch/SearchObjects.class" afterPath="$PROJECT_DIR$/Indeed/target/classes/PageFactorySearch/SearchObjects.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/classes/dataToSearch/ItemsToBeSearched.class" afterPath="$PROJECT_DIR$/Indeed/target/classes/dataToSearch/ItemsToBeSearched.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/data/jobsToSearch.xls" afterPath="$PROJECT_DIR$/Indeed/data/jobsToSearch.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/Indeed-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Indeed/target/Indeed-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/classes/landingPage/UiLoginPage.class" afterPath="$PROJECT_DIR$/Indeed/target/classes/landingPage/UiLoginPage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/classes/methods/CommonMethods.class" afterPath="$PROJECT_DIR$/Indeed/target/classes/methods/CommonMethods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/HomePage/TestMemberLogin.class" afterPath="$PROJECT_DIR$/MetroPlus/target/test-classes/HomePage/TestMemberLogin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/test-classes/LoginPageTest/TestLogin.class" afterPath="$PROJECT_DIR$/Indeed/target/test-classes/LoginPageTest/TestLogin.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/pom.xml" afterPath="$PROJECT_DIR$/Generic/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupProject.iml" afterPath="$PROJECT_DIR$/GroupProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/Indeed.iml" afterPath="$PROJECT_DIR$/Indeed/Indeed.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/pom.xml" afterPath="$PROJECT_DIR$/Indeed/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java" afterPath="$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPage.java" afterPath="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLoginPage.java" afterPath="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLoginPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/main/java/methods/commonMethods.java" afterPath="$PROJECT_DIR$/Indeed/src/main/java/methods/commonMethods.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDatabase.java" afterPath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDatabase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDataprovider.java" afterPath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDataprovider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByExcel.java" afterPath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByExcel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/TestLandingPage.java" afterPath="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/TestLandingPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/test/java/LoginPageTest/TestLogin.java" afterPath="$PROJECT_DIR$/Indeed/src/test/java/LoginPageTest/TestLogin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/src/test/test/resources/IndeedTestRunner.xml" afterPath="$PROJECT_DIR$/Indeed/src/test/test/resources/IndeedTestRunner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Indeed/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Indeed/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/MetroPlus.iml" afterPath="$PROJECT_DIR$/MetroPlus/MetroPlus.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/pom.xml" afterPath="$PROJECT_DIR$/MetroPlus/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/MetroPlus/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/Metroplus Website Test.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/Metroplus Website Test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/Metroplus Website Test.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/Metroplus Website Test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/testng-failed.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/MetroPlus Website Test/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TestSuite-output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/junitreports/TEST-HomePage.TestHomePage.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/junitreports/TEST-HomePage.TestHomePage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/junitreports/TEST-HomePage.TestMemberLogin.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/junitreports/TEST-HomePage.TestMemberLogin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/classes.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/methods-alphabetical.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/methods.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/testng.xml.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/toc.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/MetroPlus Website Test/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetroPlus/target/test-classes/TestMetroPlusTestRunner.xml" afterPath="$PROJECT_DIR$/MetroPlus/target/test-classes/TestMetroPlusTestRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indeed/target/test-classes/IndeedTestRunner.xml" afterPath="$PROJECT_DIR$/Indeed/target/test-classes/IndeedTestRunner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -174,31 +138,51 @@
       <file leaf-file-name="IndeedTestRunner.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Indeed/src/test/test/resources/IndeedTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="59" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="24" selection-end-column="59" />
+            <state relative-caret-position="105">
+              <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLogin.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/LoginPageTest/TestLogin.java">
+      <file leaf-file-name="SearchByDatabase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDatabase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchByDataprovider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDataprovider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchByExcel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByExcel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobSearchDropDown.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/advanceJobSearchPage/JobSearchDropDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
-                <marker date="1485475509000" expanded="true" signature="0:1620" ph="..." />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestLandingPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/TestLandingPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -206,68 +190,53 @@
       <file leaf-file-name="ItemsToBeSearched.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UiLandingPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPage.java">
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="330">
+              <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+              <folding>
+                <element signature="e#6075#6076#0" expanded="true" />
+                <element signature="e#6115#6116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestLogin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/LoginPageTest/TestLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="44" column="22" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+              <folding>
+                <marker date="1485596237000" expanded="true" signature="0:2004" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAllLinks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageAllLinksTest/TestAllLinks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="48" column="22" lean-forward="false" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UiLoginPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLoginPage.java">
+      <file leaf-file-name="AllLinks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/allLandingPageLinks/AllLinks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="29" column="52" lean-forward="false" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DropDownMenuPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/DropDownMenuPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchObjects.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchObjects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchUtilities.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/ItemsSearch/SearchUtilities.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="435">
+              <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -294,8 +263,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
-        <option value="$PROJECT_DIR$/Ebay/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestHomePage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/TestAmazon.xml" />
         <option value="$PROJECT_DIR$/Ebay/src/test/resources/TestEbay.xml" />
@@ -306,9 +273,7 @@
         <option value="$PROJECT_DIR$/Indeed/src/main/java/pageFactoryLogin/LogInInfo.java" />
         <option value="$PROJECT_DIR$/Indeed/src/main/java/pageFactoryLogin/SearchItems.java" />
         <option value="$PROJECT_DIR$/Indeed/src/main/java/pageFactoryLogin/SearchObjects.java" />
-        <option value="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/DropDownMenuPage.java" />
         <option value="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchObjects.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePage/TestHomePage.java" />
         <option value="$PROJECT_DIR$/MetroPlus/src/test/java/HomePage/Items.java" />
         <option value="$PROJECT_DIR$/MetroPlus/src/main/java/methods/CommonMethods.java" />
@@ -322,24 +287,32 @@
         <option value="$PROJECT_DIR$/Indeed/src/test/java/page/TestLandingPage.java" />
         <option value="$PROJECT_DIR$/Indeed/src/test/java/TestLandingPage.java" />
         <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePage/TestLandingPage.java" />
-        <option value="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPage.java" />
         <option value="$PROJECT_DIR$/MetroPlus/pom.xml" />
-        <option value="$PROJECT_DIR$/Indeed/src/main/java/methods/commonMethods.java" />
-        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/TestLandingPage.java" />
         <option value="$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/IteamsToBeSearched.java" />
         <option value="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchItems.java" />
-        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByExcel.java" />
-        <option value="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLoginPage.java" />
-        <option value="$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java" />
-        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/DropDownMenuSearch.java" />
         <option value="$PROJECT_DIR$/Indeed/pom.xml" />
-        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDataprovider.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDatabase.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/MySql.properties" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/TestLandingPage.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPage.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLoginPage.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPageAllLinks.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/allLandingPageLinks/AllLinks.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/DropDownMenuPage.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/DropDownMenuSearch.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/TestAdvanceJobSearchPage/DropDownMethod.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/advanceJobSearchPage/JobSearchDropDown.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/TestAdvanceJobSearchPage/DropDownMenuSearch.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/methods/commonMethods.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByExcel.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDataprovider.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDatabase.java" />
         <option value="$PROJECT_DIR$/Indeed/src/test/test/resources/IndeedTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Indeed/src/test/java/HomePageAllLinksTest/TestAllLinks.java" />
         <option value="$PROJECT_DIR$/Indeed/src/test/java/LoginPageTest/TestLogin.java" />
       </list>
     </option>
@@ -359,6 +332,30 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="GroupProject" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="GroupProject" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -399,11 +396,12 @@
       </PATH>
     </treeState>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="169" />
-    <option name="y" value="84" />
-    <option name="width" value="684" />
-    <option name="height" value="829" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -423,7 +421,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -456,236 +455,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomePageTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PageFactorySearch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pageFactoryLogin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="methods" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dataToSearch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetroPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Group_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Indeed" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -722,11 +491,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="surefire-reports" />
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -752,11 +529,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="TestAdvanceJobSearchPage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -817,6 +594,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HomePageTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Indeed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomePageAllLinksTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1006,6 +813,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allLandingPageLinks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Indeed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="advanceJobSearchPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Indeed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1140,8 +1007,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1151,6 +1017,7 @@
     <property name="project.structure.side.proportion" value="0.51609194" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Amazon/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1159,14 +1026,15 @@
       <recent name="$PROJECT_DIR$/Generic/Driver" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestAdvanceJobSearchPage" />
       <recent name="HomePage" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch" />
       <recent name="$PROJECT_DIR$/Generic/Driver" />
       <recent name="$PROJECT_DIR$/Generic/src" />
       <recent name="$PROJECT_DIR$/Indeed/src/test/java/HomePageTest" />
       <recent name="$PROJECT_DIR$/Indeed/src/main/java" />
-      <recent name="$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG./Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml">
@@ -1181,39 +1049,6 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestLandingPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="HomePageTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Indeed" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="HomePageTest" />
-      <option name="MAIN_CLASS_NAME" value="HomePageTest.TestLandingPage" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -1264,10 +1099,10 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="TestLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SearchByDatabase" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="LoginPageTest.*" />
+          <option name="PATTERN" value="HomePageTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1275,8 +1110,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="LoginPageTest" />
-      <option name="MAIN_CLASS_NAME" value="LoginPageTest.TestLogin" />
+      <option name="PACKAGE_NAME" value="HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="HomePageTest.SearchByDatabase" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -1297,7 +1132,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="SearchByDatabase" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SearchByDataprovider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="HomePageTest.*" />
@@ -1309,7 +1144,40 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="HomePageTest" />
-      <option name="MAIN_CLASS_NAME" value="HomePageTest.SearchByDatabase" />
+      <option name="MAIN_CLASS_NAME" value="HomePageTest.SearchByDataprovider" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="DropDownMenuSearch" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestAdvanceJobSearchPage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Indeed" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="TestAdvanceJobSearchPage" />
+      <option name="MAIN_CLASS_NAME" value="TestAdvanceJobSearchPage.DropDownMenuSearch" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -1558,18 +1426,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG./Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.TestLandingPage" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.TestLogin.testLoginCorrectCredentials" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.TestLogin" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.SearchByDatabase" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.TestLogin.testLoginCorrectCredentials" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.SearchByDatabase" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.SearchByDataprovider" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.DropDownMenuSearch" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG./Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.SearchByDatabase" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.TestLogin.testLoginCorrectCredentials" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.TestLogin" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.TestLandingPage" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.DropDownMenuSearch" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.SearchByDataprovider" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.SearchByDatabase" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.TestLogin.testLoginCorrectCredentials" />
       </list>
     </recent_temporary>
   </component>
@@ -1587,63 +1455,63 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchByDatabase - 2017.01.25 at 16h 09m 03s.xml">
-      <configuration name="SearchByDatabase" configurationId="TestNG" />
+    <history-entry file="DropDownMenuSearch - 2017.01.28 at 03h 30m 29s.xml">
+      <configuration name="DropDownMenuSearch" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 15h 48m 08s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 03h 05m 07s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 16h 05m 39s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 03h 06m 36s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 16h 10m 19s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 03h 13m 49s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 16h 12m 54s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 03h 14m 40s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 16h 14m 50s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 03h 31m 30s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 16h 17m 49s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 04h 11m 44s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 17h 17m 12s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 04h 21m 42s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.25 at 17h 17m 53s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 04h 31m 19s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.26 at 18h 59m 40s.xml">
+    <history-entry file="_Users_ahmadkarim_Desktop_projects_MavenProjects_Group_Project_Indeed_src_test_test_resources_IndeedTestRunner_xml - 2017.01.28 at 04h 39m 42s.xml">
       <configuration name="/Users/ahmadkarim/Desktop/projects/MavenProjects/Group_Project/Indeed/src/test/test/resources/IndeedTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="169" y="84" width="684" height="829" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3221393" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32121924" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.00877193" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15277778" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5473684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42907387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4619883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22361112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39800996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39742085" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1657,7 +1525,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="17" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1666,60 +1534,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/resources/TestEbay.xml" />
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/pageFactoryLogin/SearchItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/pageFactoryLogin/SearchObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/PageFactorySearch/SearchItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/PageFactorySearch/SearchObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/TestEbayHomePage.java" />
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/pageFactoryLogin/LogInInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/test/java/HomePage/TestMemberLogin.java" />
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/test/java/HomePage/TestHomePage.java" />
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePage/TestMemberLogin.java" />
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/methods/CommonMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="67" lean-forward="false" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/dataToSearch/ItemsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/methods/CommonMethods.java" />
+    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/dataToSearch/ItemsToBeSearched.java" />
     <entry file="file://$PROJECT_DIR$/MetroPlus/src/test/java/HomePage/Items.java" />
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePage/TestHomePage.java" />
     <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/pageFactoryLogin/LogInInfo.java" />
@@ -1728,82 +1547,12 @@
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePage/SearchJobs.java" />
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePage/Items.java" />
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/page/TestLandingPage.java" />
-    <entry file="file://$PROJECT_DIR$/MetroPlus/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MetroPlus/pom.xml" />
     <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/IteamsToBeSearched.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
-          <caret line="701" column="0" lean-forward="false" selection-start-line="701" selection-start-column="0" selection-end-line="701" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/PageFactorySearch/DropDownMenuPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestMemberLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="50" column="40" lean-forward="false" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByExcel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetroPlus/src/test/resources/MetroPlusTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDataprovider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MetroPlus/src/main/java/PageFactorySearch/DropDownMenuPage.java" />
+    <entry file="file://$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestHomePage.java" />
+    <entry file="file://$PROJECT_DIR$/MetroPlus/src/test/java/HomePageTest/TestMemberLogin.java" />
+    <entry file="file://$PROJECT_DIR$/MetroPlus/src/test/resources/MetroPlusTestRunner.xml" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/ConnectMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
@@ -1812,103 +1561,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#4265#4266#0" expanded="false" />
-            <element signature="e#4326#4327#0" expanded="false" />
-            <element signature="e#4710#4711#0" expanded="false" />
-            <element signature="e#4777#4778#0" expanded="false" />
-            <element signature="e#5025#5026#0" expanded="false" />
-            <element signature="e#5105#5106#0" expanded="false" />
-            <element signature="e#5302#5303#0" expanded="false" />
-            <element signature="e#5369#5370#0" expanded="false" />
-            <element signature="e#6311#6312#0" expanded="false" />
-            <element signature="e#6351#6352#0" expanded="false" />
-            <element signature="e#6388#6389#0" expanded="false" />
-            <element signature="e#6431#6432#0" expanded="false" />
-            <element signature="e#8522#8523#0" expanded="false" />
-            <element signature="e#8570#8571#0" expanded="false" />
-            <element signature="e#8610#8611#0" expanded="false" />
-            <element signature="e#8660#8661#0" expanded="false" />
-            <element signature="e#9869#9870#0" expanded="false" />
-            <element signature="e#9936#9937#0" expanded="false" />
-            <element signature="e#9979#9980#0" expanded="false" />
-            <element signature="e#10059#10060#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/methods/commonMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/DropDownMenuSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/MySql.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="103" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="103" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="42" column="90" lean-forward="true" selection-start-line="42" selection-start-column="90" selection-end-line="42" selection-end-column="90" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1916,62 +1572,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPageAllLinks.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="42" column="90" lean-forward="true" selection-start-line="42" selection-start-column="90" selection-end-line="42" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/DropDownMenuPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/DropDownMenuSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/TestAdvanceJobSearchPage/DropDownMethod.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#8973#8974#0" expanded="false" />
+            <element signature="e#9008#9009#0" expanded="false" />
+            <element signature="e#13027#13028#0" expanded="false" />
+            <element signature="e#13062#13063#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="647" column="0" lean-forward="false" selection-start-line="647" selection-start-column="0" selection-end-line="647" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#63912#63913#0" expanded="false" />
+            <element signature="e#63953#63954#0" expanded="false" />
+            <element signature="e#66051#66052#0" expanded="false" />
+            <element signature="e#66112#66113#0" expanded="false" />
+            <element signature="e#67128#67129#0" expanded="false" />
+            <element signature="e#67205#67206#0" expanded="false" />
+            <element signature="e#67770#67771#0" expanded="false" />
+            <element signature="e#67810#67811#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/TestAdvanceJobSearchPage/DropDownMenuSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/TestLandingPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/ItemsSearch/SearchUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="52" lean-forward="false" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="14" column="89" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="89" />
           <folding />
         </state>
       </provider>
@@ -1984,20 +1691,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/PageFactorySearch/SearchItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/methods/commonMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/landingPage/UiLandingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/ItemsSearch/SearchUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/dataToSearch/ItemsToBeSearched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/allLandingPageLinks/AllLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/main/java/advanceJobSearchPage/JobSearchDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDataprovider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageTest/SearchByDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/test/resources/IndeedTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="59" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="24" selection-end-column="59" />
+        <state relative-caret-position="105">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="e#6075#6076#0" expanded="true" />
+            <element signature="e#6115#6116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/HomePageAllLinksTest/TestAllLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="48" column="22" lean-forward="false" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Indeed/src/test/java/LoginPageTest/TestLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="555">
+          <caret line="44" column="22" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
           <folding>
-            <marker date="1485475509000" expanded="true" signature="0:1620" ph="..." />
+            <marker date="1485596237000" expanded="true" signature="0:2004" ph="..." />
           </folding>
         </state>
       </provider>
