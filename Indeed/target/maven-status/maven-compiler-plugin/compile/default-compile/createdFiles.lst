@@ -1,7 +1,9 @@
 landingPage/UiLoginPage.class
 landingPage/UiLandingPage.class
 PageFactorySearch/SearchObjects.class
+allLandingPageLinks/AllLinks.class
 dataToSearch/ItemsToBeSearched.class
+advanceJobSearchPage/JobSearchDropDown.class
 methods/commonMethods.class
 PageFactorySearch/SearchItems.class
 ItemsSearch/SearchUtilities.class

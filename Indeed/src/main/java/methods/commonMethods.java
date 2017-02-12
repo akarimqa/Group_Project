@@ -1,4 +1,5 @@
 package methods;
+
 import java.io.IOException;
 import java.util.*;
 
@@ -12,13 +13,14 @@ import utility.DataReader;
 
 import static landingPage.UiLoginPage.*;
 
+
 /**
  * Created by ahmadkarim on 1/23/17.
  */
 public class commonMethods extends CommonAPI {
     //***If Need to use Actual UserName and Password
-    public static final String IndeedUser="mrmbillah@gmail.com";
-    public static final String IndeedPass="A@101089";
+    public static final String IndeedUser = "mrmbillah@gmail.com";
+    public static final String IndeedPass = "A@101089";
     //*** UserName and Password come from System Environment Variable
 //    public static final String IndeedUser = System.getenv("IndeedUser");
 //    public static final String IndeedPass = System.getenv("IndeedPass");
@@ -53,18 +55,25 @@ public class commonMethods extends CommonAPI {
         String txt = wrongUserPasswordMassage.getText();
         return txt;
     }
-public void selectionOfDropDownMethod(String visibleText, String path){
-    Select dropDown=new Select(driver.findElement(By.xpath(path)));
-    dropDown.deselectByValue(visibleText);
+
+    public void selectionOfDropDownMethod(String visibleText, String path) {
+        Select dropDown = new Select(driver.findElement(By.xpath(path)));
+        dropDown.deselectByValue(visibleText);
+
+    }
+
+    public void searchDropDownMethod(String item) {
+        JobSearchDropDown jobSearchDropDown = PageFactory.initElements(driver, JobSearchDropDown.class);
+    }
+
+
+
+
 
 }
-public void searchDropDownMethod(String item){
-    JobSearchDropDown jobSearchDropDown=PageFactory.initElements(driver, JobSearchDropDown.class);
 
 
 
-}
 
 
-}
 

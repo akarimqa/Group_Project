@@ -2,16 +2,8 @@ package TestAdvanceJobSearchPage;
 
 
 import advanceJobSearchPage.JobSearchDropDown;
-
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
-
-import java.util.ArrayList;
-import java.util.List;
-
-import static advanceJobSearchPage.JobSearchDropDown.advanceSearchLink;
-import static advanceJobSearchPage.JobSearchDropDown.advanceSearchSubmit;
 
 /**
  * Created by rrt on 12/26/2015.
@@ -19,34 +11,41 @@ import static advanceJobSearchPage.JobSearchDropDown.advanceSearchSubmit;
 public class DropDownMenuSearch extends JobSearchDropDown {
 
     @Test(priority = 1)
-    public void testJobTypeDropDown() throws InterruptedException{
+    public void testJobTypeDropDown() throws Exception {
         JobSearchDropDown jobSearchDropDown = PageFactory.initElements(driver, JobSearchDropDown.class);
         advanceSearchLink.click();
-        jobSearchDropDown.advanceSearchFor("jt");
+        jobSearchDropDown.dropDownMethod("jt");
     }
+
     @Test(priority = 2)
-    public void testJobSiteDropDown() throws InterruptedException{
+    public void testJobSiteDropDown() throws Exception {
         JobSearchDropDown jobSearchDropDown = PageFactory.initElements(driver, JobSearchDropDown.class);
         advanceSearchLink.click();
-        jobSearchDropDown.advanceSearchFor("st");
+        jobSearchDropDown.dropDownMethod("st");
     }
+
     @Test(priority = 3)
-    public void testJobLocationDropDown() throws InterruptedException{
+    public void testJobLocationDropDown() throws Exception {
         JobSearchDropDown jobSearchDropDown = PageFactory.initElements(driver, JobSearchDropDown.class);
         advanceSearchLink.click();
-        jobSearchDropDown.advanceSearchFor("radius");
+        jobSearchDropDown.dropDownMethod("radius");
+
     }
+
     @Test(priority = 4)
-    public void testJobDisplayDropDown() throws InterruptedException{
+    public void testJobDisplayDropDown() throws Exception {
         JobSearchDropDown jobSearchDropDown = PageFactory.initElements(driver, JobSearchDropDown.class);
         advanceSearchLink.click();
-        jobSearchDropDown.advanceSearchFor("limit");
+        jobSearchDropDown.dropDownMethod("limit");
+
     }
+
     @Test(priority = 5)
-    public void testJobSortDropDown() throws InterruptedException{
+    public void testJobSortDropDown() throws Exception {
         JobSearchDropDown jobSearchDropDown = PageFactory.initElements(driver, JobSearchDropDown.class);
         advanceSearchLink.click();
-        jobSearchDropDown.advanceSearchFor("sort");
+        jobSearchDropDown.dropDownMethod("sort");
+
     }
 
 

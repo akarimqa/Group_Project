@@ -38,7 +38,7 @@
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
                         <!--<suiteXmlFile>target/test-classes/${IndeedTestRunner}</suiteXmlFile>-->
-                        <suiteXmlFile>target/test-classes/IndeedTestRunner.xml</suiteXmlFile>
+                        <suiteXmlFile>target/test-classes/{IndeedTestRunner}</suiteXmlFile>
                     </suiteXmlFiles>
                     <!--<reportsDirectory>./test-output/${timestamp}</reportsDirectory>-->
                 </configuration>

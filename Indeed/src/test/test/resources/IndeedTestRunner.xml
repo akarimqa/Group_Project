@@ -5,11 +5,11 @@
     <suite name="Indeed Website Test" parallel="tests">
 
         <parameter name="useCloudEnv" value="false"/>
-        <parameter name="userName" value="zrafija"/>
-        <parameter name="accessKey" value="36043adb-3623-44d2-83f5-7477e68f892e"/>
+        <parameter name="userName" value="mrmbillah"/>
+        <parameter name="accessKey" value="6b407300-764c-437c-a013-913b0d7b7df7"/>
         <parameter name="os" value="Mac"/>
         <parameter name="browserName" value="chrome"/>
-        <parameter name="browserVersion" value="55"/>
+        <parameter name="browserVersion" value="55.0"/>
         <parameter name="url" value="http://www.indeed.com"/>
 
             <test name = "Indeed Website Test">
@@ -24,7 +24,8 @@
                     <class name="HomePageTest.TestLandingPage"/>
                     <class name="LoginPageTest.TestLogin"/>
                     <class name="HomePageAllLinksTest.TestAllLinks"/>
-                    <!--<class name="TestAdvanceJobSearchPage.DropDownMenuSearch"/>-->
+                    <class name="TestAdvanceJobSearchPage.DropDownMenuSearch"/>
+                    <!--<class name="resumeUploadFlowTests.TestResumeUploadFlow"/>-->
 
 
                 </classes>

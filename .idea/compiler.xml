@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Bestbuy" />
         <module name="Generic" />
         <module name="Indeed" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Amazon" target="1.5" />
+      <module name="Bestbuy" target="1.8" />
+      <module name="BestBuy" target="1.8" />
       <module name="Ebay" target="1.5" />
       <module name="Generic" target="1.5" />
       <module name="GroupProject" target="1.5" />

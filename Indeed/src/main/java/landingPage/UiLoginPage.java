@@ -9,7 +9,10 @@ import org.openqa.selenium.support.How;
  * Created by ahmadkarim on 1/24/17.
  */
 public class UiLoginPage extends commonMethods {
-    @FindBy(how = How.XPATH, using = ".//*[@id='userOptionsLabel']")
+
+
+
+        @FindBy(how = How.XPATH, using = ".//*[@id='userOptionsLabel']")
     public static WebElement userLoginButton;
 
     @FindBy(how = How.XPATH, using = ".//*[@id='signin_email']")

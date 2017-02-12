@@ -28,7 +28,7 @@ import java.util.concurrent.TimeUnit;
  * Created by Ahmad Karim on 1/8/17.
  */
 public class CommonAPI {
-    public WebDriver driver = null;
+    public static WebDriver driver = null;
 
     @Parameters({"useCloudEnv", "userName", "accessKey", "os", "browserName", "browserVersion", "url"})
     @BeforeMethod
